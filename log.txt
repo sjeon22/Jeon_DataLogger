@@ -1,0 +1,17 @@
+2/12/2021 8:13:22 PM  Button clicked
+2/12/2021 8:13:22 PM  Opened Application
+2/12/2021 8:13:22 PM  Closed Application
+2/12/2021 8:13:23 PM  Button clicked
+2/12/2021 8:13:23 PM  Button clicked
+2/12/2021 8:13:24 PM  Button clicked
+2/12/2021 8:13:24 PM  Space down
+2/12/2021 8:13:24 PM  Button clicked
+2/12/2021 8:13:24 PM  Space down
+2/12/2021 8:13:24 PM  Button clicked
+2/12/2021 8:13:24 PM  Button clicked
+2/12/2021 8:13:24 PM  Button clicked
+2/12/2021 8:13:24 PM  Space down
+2/12/2021 8:13:25 PM  Button clicked
+2/12/2021 8:13:25 PM  Button clicked
+2/12/2021 8:13:25 PM  Button clicked
+2/12/2021 8:13:25 PM  Closed Application
